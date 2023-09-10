@@ -1,4 +1,4 @@
-السلام عليكم ورحمة الله :
-
-اي ال بعمله الفترة دي مشاريع علي الرياكت جي اس وبتعبم نيكست ورياكت نيتف
-اعمل كارجول رياكت او سلايدر
+1- Infrastructure
+2- Database internals
+3- Web Applications Servers
+4- How HTTP works
